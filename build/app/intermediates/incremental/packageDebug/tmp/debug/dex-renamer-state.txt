@@ -1,0 +1,4 @@
+#Sat May 16 16:58:18 MYT 2020
+base.0=/Users/comparehero/Desktop/workbench/flutter/animation/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
